@@ -1,3 +1,7 @@
+# This was created by Dhruva Srinivas
+# A simple notepad application
+# Youtube channel - https://www.youtube.com/channel/UC9Nx4BWhT5D6f7ZSfS9mU0A?view_as=subscriber
+
 from tkinter import *
 
 from tkinter import messagebox
