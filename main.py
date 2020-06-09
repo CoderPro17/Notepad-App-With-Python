@@ -1,6 +1,7 @@
 # This was created by Dhruva Srinivas
 # A simple notepad application
 # Youtube channel - https://www.youtube.com/channel/UC9Nx4BWhT5D6f7ZSfS9mU0A?view_as=subscriber
+# How I built this - https://www.youtube.com/watch?v=m9xuKzuzbz8&t=75s
 
 from tkinter import *
 
