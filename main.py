@@ -116,8 +116,6 @@ def delete_file():
         conn = sqlite3.connect('file.db')
         c = conn.cursor()
 
-        c.execute("DELETE from files WHERE name LIKE (?)", (delete_file_name.get(),))
-
         popup = messagebox.askyesno('Delete File?',
                                     'You have chosen to delete the file \'' + delete_file_name.get() + '\' This action cannot be reversed. Do you want to proceed?')
 
